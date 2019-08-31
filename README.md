@@ -49,5 +49,12 @@ Best Paper 2: [Variance-based Regularization with Convex Objectives](http://pape
 
 Best Paper 3: [A Linear-Time Kernel Goodness-of-Fit Test](http://papers.nips.cc/paper/6630-a-linear-time-kernel-goodness-of-fit-test)
 
+### ICCV 2017
+Best Paper: [Mask R-CNN](https://research.fb.com/wp-content/uploads/2017/08/maskrcnn.pdf)
+
+### ICIP 2018
+Best Paper: [SHADE: Information-Based Regularization for Deep Learning](https://arxiv.org/abs/1805.05814)
+
+Best Student Paper: [Semi-Blind Spatially-Variant Deconvolution in Optical Microscopy with Local Point Spread Function Estimation By Use Of Convolutional Neural Networks](https://arxiv.org/abs/1803.07452)
 
 
