@@ -1,6 +1,5 @@
 # Papers awarded best paper
 
-
 ### CVPR 2019
 Best Paper: [A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](http://imaging.cs.cmu.edu/fermat_paths/assets/cvpr2019.pdf)
 
@@ -30,3 +29,25 @@ Best Paper 2: [Delayed Impact of Fair Machine Learning](https://arxiv.org/abs/18
 
 ### ICML 2017
 Best Paper: [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730)
+
+### ECCV 2018
+Best Paper: [Implicit 3D Orientation Learning for 6D Object Detection from RGB Images](https://arxiv.org/abs/1902.01275)
+
+### NIPS 2018
+Best Paper 1: [Non-delusional Q-learning and Value Iteration](https://papers.nips.cc/paper/8200-non-delusional-q-learning-and-value-iteration.pdf)
+
+Best Paper 2: [Optimal Algorithms for Non-Smooth Distributed Optimization in Networks](https://arxiv.org/abs/1806.00291)
+
+Best Paper 3: [Nearly tight sample complexity bounds for learning mixtures of Gaussians via sample compression schemes](https://papers.nips.cc/paper/7601-nearly-tight-sample-complexity-bounds-for-learning-mixtures-of-gaussians-via-sample-compression-schemes)
+
+Best Paper 4: [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
+
+### NIPS 2017
+Best Paper 1: [Safe and Nested Subgame Solving for Imperfect-Information Games](http://papers.nips.cc/paper/6671-safe-and-nested-subgame-solving-for-imperfect-information-games)
+
+Best Paper 2: [Variance-based Regularization with Convex Objectives](http://papers.nips.cc/paper/6890-variance-based-regularization-with-convex-objectives)
+
+Best Paper 3: [A Linear-Time Kernel Goodness-of-Fit Test](http://papers.nips.cc/paper/6630-a-linear-time-kernel-goodness-of-fit-test)
+
+
+
